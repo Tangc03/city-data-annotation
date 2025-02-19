@@ -137,3 +137,8 @@ def generate_grounded_caption(model, tokenizer, image_desc, region_descs):
     
     return get_model_response(model, tokenizer, prompt)
 ```
+
+## Time Estimation
+
+For InternVL: 11-12min for 1 case, 148465 images in total to annotate
+For Qwen: 5-6min for 1 case, 148465 cases in total to annotate
