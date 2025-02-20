@@ -1,5 +1,7 @@
 # City Data Annotation
 
+## Environment Preparation
+
 ## Files Structure
 
 `./pretrained` structure:
