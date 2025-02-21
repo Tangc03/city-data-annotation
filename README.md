@@ -9,9 +9,7 @@
 ```
 .
 ├── InternVL2_5-78B
-├── Llama-3.3-70B-Instruct
-├── Qwen2.5-72B-Instruct
-└── Sa2VA-26B
+└── Qwen2.5-72B-Instruct
 ```
 
 `./datasets/city_standard_data` structure:
